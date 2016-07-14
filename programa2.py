@@ -1,5 +1,6 @@
 #DETERMINAR CUANTOS NÚMEROS HAY ENTRE 2 NÚMEROS"
 #NESECITO AYUDA CON ESTE PROGRAMA
+#hola
 
 #ENTRADA
 a=int(input("ingresa el primer numero entero \n"))  
