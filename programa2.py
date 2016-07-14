@@ -6,7 +6,7 @@
 a=int(input("ingresa el primer numero entero \n"))  
 b=int(input("ingresa el segundo numero entero \n"))
 #PROCESO
-resta=abs(a-b)
+resta=abs
 numeros=resta-1
 #SALIDA
 print ('La cantidad de numeros entre ellos es: ')
